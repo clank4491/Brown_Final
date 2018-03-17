@@ -1,0 +1,41 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   22.20.16.4749
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Brown_Final\NodeQuizGame\NodeQuizGame\QuizGame_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.929850 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2278 -> priority: 1 
+  Thread -> id: 4cc0 -> priority: 1 
+UnloadTime: 0.248947 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.277156 ms (FindLiveObjects: 0.024330 ms CreateObjectMapping: 0.019393 ms MarkObjects: 0.226027 ms  DeleteObjects: 0.007052 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.146422 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 396.
+Total: 0.298666 ms (FindLiveObjects: 0.025388 ms CreateObjectMapping: 0.013752 ms MarkObjects: 0.254236 ms  DeleteObjects: 0.003878 ms)
+
